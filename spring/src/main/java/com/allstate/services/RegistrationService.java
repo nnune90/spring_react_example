@@ -23,9 +23,9 @@ public class RegistrationService {
     private StudentService studentService;
     private KlassService klassService;
 
-    public StudentService getStudentService() {
-        return studentService;
-    }
+   // public StudentService getStudentService() {
+//        return studentService;
+//    }
 
     @Autowired
     public void setStudentService(StudentService studentService) {
@@ -33,9 +33,9 @@ public class RegistrationService {
     }
 
 
-    public KlassService getKlassService() {
-        return klassService;
-    }
+//    public KlassService getKlassService() {
+//        return klassService;
+//    }
 
     @Autowired
     public void setKlassService(KlassService klassService) {
