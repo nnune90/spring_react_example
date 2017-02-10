@@ -16,6 +16,13 @@ class App extends Component {
         <p className="App-intro">
           Here's some more content!
         </p>
+        <p className="App-intro">&nbsp;</p>
+        <p className="App-intro">&nbsp;</p>
+        <p className="App-intro">&nbsp;</p>
+        <p className="App-intro">&nbsp;</p>
+        <p className="App-intro">
+          Here's even MORE content!
+        </p>
       </div>
     );
   }
