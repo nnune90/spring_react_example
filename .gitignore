@@ -1,6 +1,7 @@
 .gradle
 /build/
 !gradle/wrapper/gradle-wrapper.jar
+npm-debug.log
 /spring/src/main/resources/static/
 
 ### STS ###
