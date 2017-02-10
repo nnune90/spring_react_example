@@ -14,7 +14,7 @@ class App extends Component {
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
         <p className="App-intro">
-          Here's some more conent!
+          Here's some more content!
         </p>
       </div>
     );
